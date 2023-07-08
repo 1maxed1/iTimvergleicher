@@ -1,0 +1,38 @@
+{
+  "random1": {
+    "winRate": 1,
+    "wins": 1,
+    "looses": 0,
+    "gamesPlayed": 1
+  },
+  "random2": {
+    "winRate": 1,
+    "wins": 1,
+    "looses": 0,
+    "gamesPlayed": 1
+  },
+  "random3": {
+    "winRate": 1,
+    "wins": 1,
+    "looses": 0,
+    "gamesPlayed": 1
+  },
+  "random4": {
+    "winRate": 0,
+    "wins": 0,
+    "looses": 1,
+    "gamesPlayed": 1
+  },
+  "random5": {
+    "winRate": 0,
+    "wins": 0,
+    "looses": 0,
+    "gamesPlayed": 0
+  },
+  "random6": {
+    "winRate": 0,
+    "wins": 0,
+    "looses": 2,
+    "gamesPlayed": 2
+  }
+}
