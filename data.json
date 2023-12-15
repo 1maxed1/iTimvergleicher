@@ -1,27 +1,27 @@
 {
   "random1": {
-    "winRate": 1,
-    "wins": 1,
+    "winRate": 0,
+    "wins": 0,
     "looses": 0,
-    "gamesPlayed": 1
+    "gamesPlayed": 0
   },
   "random2": {
-    "winRate": 1,
-    "wins": 1,
+    "winRate": 0,
+    "wins": 0,
     "looses": 0,
-    "gamesPlayed": 1
+    "gamesPlayed": 0
   },
   "random3": {
-    "winRate": 1,
-    "wins": 1,
+    "winRate": 0,
+    "wins": 0,
     "looses": 0,
-    "gamesPlayed": 1
+    "gamesPlayed": 0
   },
   "random4": {
     "winRate": 0,
     "wins": 0,
-    "looses": 1,
-    "gamesPlayed": 1
+    "looses": 0,
+    "gamesPlayed": 0
   },
   "random5": {
     "winRate": 0,
@@ -32,7 +32,7 @@
   "random6": {
     "winRate": 0,
     "wins": 0,
-    "looses": 2,
-    "gamesPlayed": 2
+    "looses": 0,
+    "gamesPlayed": 0
   }
 }
